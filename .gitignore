@@ -1,0 +1,16 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+models/best_sentiment_model/
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+data/
+*.parquet
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
